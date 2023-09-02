@@ -1,11 +1,8 @@
 ### Celio Barros
 
 
- [Linkedin](https://www.linkedin.com/in/celio-barros-b946b055/).
-<!--
-**CelioBarros1301/CelioBarros1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [Linkedin] (https://www.linkedin.com/in/celio-barros-b946b055/).
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
