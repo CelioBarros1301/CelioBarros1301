@@ -1,8 +1,7 @@
 ### Celio Barros
 
 
- [Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/celio-barros-b946b055/)
-)).
+ [Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/celio-barros-b946b055/).
 <!--
 **CelioBarros1301/CelioBarros1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
