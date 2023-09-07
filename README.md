@@ -6,6 +6,18 @@
 <a href="https://wa.me/5585987234013" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
+### Hard Skills
+![CLIPPER](https://img.shields.io/badge/CLIPPER-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/plsql-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![ORACLEFORMS](https://img.shields.io/badge/OracleForms-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![JAVASRIP](https://img.shields.io/badge/JS-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+
  
  ### Meus Projetos no Git
 - [Sistema Arquivo em PHP](https://github.com/CelioBarros1301/sisarqphpv2)
