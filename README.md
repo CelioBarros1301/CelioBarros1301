@@ -1,7 +1,11 @@
 ### Celio Barros
 
+<div>
+<a href = "mailto:celio130101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://https://www.linkedin.com/in/celio-barros-b946b055/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href="https://wa.me/55585987234013" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/celio-barros-b946b055/)
  
  ### Meus Projetos no Git
 - [Sistema Arquivo em PHP](https://github.com/CelioBarros1301/sisarqphpv2)
