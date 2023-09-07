@@ -5,8 +5,6 @@
  
 
  ### Meus Projetos no Git
-
- ## Referências
-- [Sistema Arquivo em PHP](https://git-scm.com/doc)
-- [Sistema de Arquivo em NodeJs](https://docs.github.com/)
+- [Sistema Arquivo em PHP](https://https://github.com/CelioBarros1301/sisarqphpv2)
+- [Sistema de Arquivo em NodeJs](https://github.com/CelioBarros1301/sisarqnode)
 
