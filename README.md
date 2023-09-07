@@ -1,7 +1,7 @@
 ### Celio Barros
 
 
- [Linkedin](https://www.linkedin.com/in/celio-barros-b946b055/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/celio-barros-b946b055/)
  
  ### Meus Projetos no Git
 - [Sistema Arquivo em PHP](https://github.com/CelioBarros1301/sisarqphpv2)
