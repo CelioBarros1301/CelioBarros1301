@@ -16,8 +16,8 @@
 ![ORACLEREPORT](https://img.shields.io/badge/OracleReport-%23092E20.svg?style=for-the-badge&logo=oracle&logoColor=red)
 
 
-![HTML](https://img.shields.io/badge/HTML-%23092E20.svg?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23092E20.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23092E20.svg?style=for-the-badge&logo=HTML5-000&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23092E20.svg?style=for-the-badge&logo=css-000&logoColor=white)
 ![JAVASRIP](https://img.shields.io/badge/JS-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=red)
 
 
