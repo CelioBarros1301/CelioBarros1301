@@ -24,6 +24,13 @@
 ![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=microsoftexcel&logoColor=red)
 ![POWERBI](https://img.shields.io/badge/POWERBI-%23092E20.svg?style=for-the-badge&logo=powerbi&logoColor=red)
 
+### Ramo de Atividades Empresas que Trabalhei
+- Escola
+- Software
+- Industria
+- Varejo
+- Plano de Saude
+
 ### Status Git
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CelioBarros1301&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
