@@ -7,18 +7,20 @@
 </div>
 
 ### Hard Skills
-![CLIPPER](https://img.shields.io/badge/CLIPPER-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/plsql-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-![ORACLEFORMS](https://img.shields.io/badge/OracleForms-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![CLIPPER](https://img.shields.io/badge/CLIPPER-%23092E20.svg?style=for-the-badge&logo=clipper&logoColor=white)
+![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=vb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23092E20.svg?style=for-the-badge&logo=php&logoColor=red)
 
-![HTML](https://img.shields.io/badge/HTML-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-![JAVASRIP](https://img.shields.io/badge/JS-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/plsql-%23092E20.svg?style=for-the-badge&logo=oracle&logoColor=red)
+![ORACLEFORMS](https://img.shields.io/badge/OracleForms-%23092E20.svg?style=for-the-badge&logo=oracle&logoColor=red)
+
+![HTML](https://img.shields.io/badge/HTML-%23092E20.svg?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%23092E20.svg?style=for-the-badge&logo=css&logoColor=white)
+![JAVASRIP](https://img.shields.io/badge/JS-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=red)
 
 
-![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
-![POWERBI](https://img.shields.io/badge/POWERBI-%23092E20.svg?style=for-the-badge&logo=java&logoColor=white)
+![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=excell&logoColor=red)
+![POWERBI](https://img.shields.io/badge/POWERBI-%23092E20.svg?style=for-the-badge&logo=powerbi&logoColor=red)
 
 ### Status Git
 
