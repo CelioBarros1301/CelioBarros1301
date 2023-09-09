@@ -19,7 +19,7 @@
 ![JAVASRIP](https://img.shields.io/badge/JS-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=red)
 
 
-![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=msexcel&logoColor=red)
+![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=microsoftexcel&logoColor=red)
 ![POWERBI](https://img.shields.io/badge/POWERBI-%23092E20.svg?style=for-the-badge&logo=powerbi&logoColor=red)
 
 ### Status Git
