@@ -24,7 +24,7 @@
 ![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=microsoftexcel&logoColor=red)
 ![POWERBI](https://img.shields.io/badge/POWERBI-%23092E20.svg?style=for-the-badge&logo=powerbi&logoColor=red)
 
-### Ramo de Atividades Empresas que Trabalhei
+### Ramo de Atividades que Tenho Experiência
 - Escola
 - Software
 - Industria
