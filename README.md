@@ -8,7 +8,7 @@
 
 ### Hard Skills
 ![CLIPPER](https://img.shields.io/badge/CLIPPER-%23092E20.svg?style=for-the-badge&logo=clipper&logoColor=white)
-![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=vb&logoColor=white)
+![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=msvisualbasic&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23092E20.svg?style=for-the-badge&logo=php&logoColor=red)
 
 ![PL/SQL](https://img.shields.io/badge/plsql-%23092E20.svg?style=for-the-badge&logo=oracle&logoColor=red)
@@ -19,7 +19,7 @@
 ![JAVASRIP](https://img.shields.io/badge/JS-%23092E20.svg?style=for-the-badge&logo=javascript&logoColor=red)
 
 
-![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=excell&logoColor=red)
+![EXCEL](https://img.shields.io/badge/EXCEL-%23092E20.svg?style=for-the-badge&logo=msexcel&logoColor=red)
 ![POWERBI](https://img.shields.io/badge/POWERBI-%23092E20.svg?style=for-the-badge&logo=powerbi&logoColor=red)
 
 ### Status Git
