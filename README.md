@@ -8,7 +8,7 @@
 
 ### Hard Skills
 ![CLIPPER](https://img.shields.io/badge/CLIPPER-%23092E20.svg?style=for-the-badge&logo=clipper&logoColor=white)
-![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=msvisualbasic&logoColor=white)
+![VISUALBASICV6](https://img.shields.io/badge/VisualBasicv.6-%23092E20.svg?style=for-the-badge&logo=microsoft&logoColor=red)
 ![PHP](https://img.shields.io/badge/PHP-%23092E20.svg?style=for-the-badge&logo=php&logoColor=red)
 
 ![PL/SQL](https://img.shields.io/badge/plsql-%23092E20.svg?style=for-the-badge&logo=oracle&logoColor=red)
